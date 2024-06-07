@@ -80,3 +80,10 @@ class Livro:
     # CRIADO biblioteca.py 
 # QUESTÃO 6
     # presente na biblioteca.py
+
+
+# CURIOSIDADE
+# staticmethod
+# for livro in çivros_disponiveis:
+    # print(f'Livros dispon´veis em {ano}: {livro})
+# Livro.livros=[livro1,livro2,livro3]
