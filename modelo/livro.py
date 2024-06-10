@@ -83,7 +83,7 @@ class Livro:
 
 
 # CURIOSIDADE
-# staticmethod
-# for livro in çivros_disponiveis:
-    # print(f'Livros dispon´veis em {ano}: {livro})
+# @staticmethod
+# for livro in livros_disponiveis:
+    # print(f'Livros disponiveis em {ano}: {livro})
 # Livro.livros=[livro1,livro2,livro3]

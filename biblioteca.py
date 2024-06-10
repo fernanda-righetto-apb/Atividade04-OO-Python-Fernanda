@@ -19,3 +19,8 @@ def main():
 
 if __name__ =='__main__':
     main()
+
+
+# QUESTÃO 7 forma de resolução pelo prof
+# ano_especifico=2020
+# Livro.verificar_disponibilidade(ano_especifico)
